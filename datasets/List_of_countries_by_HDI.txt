@@ -1,0 +1,195 @@
+Rank	Δ	Country or territory	HDI value	% annual growth (2010–2022)
+1	Steady	  Switzerland	0.967	Increase 0.24%
+2	Decrease (1)	 Norway	0.966	Increase 0.25%
+3	Steady	 Iceland	0.959	Increase 0.28%
+4	Increase (2)	 Hong Kong	0.956	Increase 0.38%
+5	Increase (1)	 Denmark	0.952	Increase 0.35%
+5	Steady	 Sweden	0.952	Increase 0.38%
+7	Increase (8)	 Ireland	0.950	Increase 0.38%
+7	Decrease (3)	 Germany	0.950	Increase 0.19%
+9	Decrease (1)	 Singapore	0.949	Increase 0.25%
+10	Increase (1)	 Netherlands	0.946	Increase 0.26%
+10	Decrease (1)	 Australia	0.946	Increase 0.20%
+12	Increase (2)	 Liechtenstein	0.942	Increase 0.23%
+12	Increase (3)	 Belgium	0.942	Increase 0.26%
+12	Steady	 Finland	0.942	Increase 0.27%
+15	Increase (3)	 United Kingdom	0.940	Increase 0.24%
+16	Decrease (7)	 New Zealand	0.939	Increase 0.13%
+17	Increase (19)	 United Arab Emirates	0.937	Increase 1.04%
+18	Decrease (5)	 Canada	0.935	Increase 0.22%
+19	Increase (3)	 South Korea	0.929	Increase 0.36%
+20	Decrease (1)	 Luxembourg	0.927	Increase 0.14%
+20	Decrease (5)	 United States	0.927	Increase 0.10%
+22	Increase (1)	 Slovenia	0.926	Increase 0.33%
+22	Decrease (1)	 Austria	0.926	Increase 0.21%
+24	Decrease (4)	 Japan	0.920	Increase 0.16%
+25	Decrease (1)	 Israel	0.915	Increase 0.26%
+25	Increase (3)	 Malta	0.915	Increase 0.50%
+27	Steady	 Spain	0.911	Increase 0.40%
+28	Decrease (3)	 France	0.910	Increase 0.28%
+29	Increase (3)	 Cyprus	0.907	Increase 0.45%
+30	Steady	 Italy	0.906	Increase 0.24%
+31	Decrease (2)	 Estonia	0.899	Increase 0.33%
+32	Decrease (6)	 Czech Republic	0.895	Increase 0.22%
+33	Decrease (3)	 Greece	0.893	Increase 0.18%
+34	Increase (3)	 Bahrain	0.888	Increase 0.80%
+35	Increase (3)	 Andorra	0.884	Increase 0.20%
+36	Decrease (2)	 Poland	0.881	Increase 0.35%
+37	Increase (2)	 Latvia	0.879	Increase 0.51%
+37	Decrease (2)	 Lithuania	0.879	Increase 0.32%
+39	Increase (6)	 Croatia	0.878	Increase 0.53%
+40	Steady	 Qatar	0.875	Increase 0.45%
+40	Increase (6)	 Saudi Arabia	0.875	Increase 0.70%
+42	Steady	 Portugal	0.874	Increase 0.42%
+43	Decrease (10)	 San Marino	0.867	Decrease 0.32%
+44	Steady	 Chile	0.860	Increase 0.47%
+45	Increase (9)	 Turkey	0.855	Increase 1.10%
+45	Decrease (5)	 Slovakia	0.855	Increase 0.14%
+47	Steady	 Hungary	0.851	Increase 0.22%
+48	Decrease (6)	 Argentina	0.849	Increase 0.15%
+49	Steady	 Kuwait	0.847	Increase 0.36%
+50	Increase (1)	 Montenegro	0.844	Increase 0.38%
+51	Decrease (2)	 Saint Kitts and Nevis	0.838	Increase 0.49%
+52	Increase (8)	 Uruguay	0.830	Increase 0.47%
+53	Increase (3)	 Romania	0.827	Increase 0.14%
+54	Increase (1)	 Antigua and Barbuda	0.826	Increase 0.18%
+55	Increase (7)	 Brunei	0.823	Increase 0.13%
+56	Decrease (3)	 Russia	0.821	Increase 0.25%
+57	Increase (3)	 Bahamas	0.820	Increase 0.21%
+57	Increase (5)	 Panama	0.820	Increase 0.47%
+59	Decrease (7)	 Oman	0.819	Increase 0.22%
+60	Decrease (3)	 Trinidad and Tobago	0.814	Increase 0.30%
+60	Increase (4)	 Georgia	0.814	Increase 0.54%
+62	Increase (2)	 Barbados	0.809	Increase 0.18%
+63	Increase (6)	 Malaysia	0.807	Increase 0.41%
+64	Increase (5)	 Costa Rica	0.806	Increase 0.39%
+65	Increase (3)	 Serbia	0.805	Increase 0.39%
+66	Increase (6)	 Thailand	0.803	Increase 0.65%
+67	Decrease (1)	 Seychelles	0.802	Increase 0.30%
+67	Decrease (4)	 Kazakhstan	0.802	Increase 0.38%
+69	Decrease (11)	 Belarus	0.801	Increase 0.12%
+70	Decrease (12)	 Bulgaria	0.799	Increase 0.09%
+71	Increase (3)	 Palau	0.797	Increase 0.23%
+72	Decrease (1)	 Mauritius	0.796	Increase 0.44%
+73	Steady	 Grenada	0.793	Increase 0.15%
+74	Decrease (8)	 Albania	0.789	Increase 0.25%
+75	Increase (18)	 China	0.788	Increase 1.02%
+76	Increase (2)	 Armenia	0.786	Increase 0.52%
+77	Increase (1)	 Mexico	0.781	Increase 0.37%
+78	Decrease (4)	 Iran	0.780	Increase 0.26%
+78	Increase (6)	 Sri Lanka	0.780	Increase 0.50%
+80	Increase (7)	 Bosnia and Herzegovina	0.779	Increase 0.68%
+81	Decrease (5)	 Saint Vincent and the Grenadines	0.772	Increase 0.17%
+82	Increase (12)	 Dominican Republic	0.766	Increase 0.67%
+83	Decrease (1)	 Ecuador	0.765	Increase 0.32%
+83	Decrease (7)	 North Macedonia	0.765	Increase 0.21%
+85	Decrease (4)	 Cuba	0.764	Decrease 0.16%
+86	Increase (5)	 Moldova	0.763	Increase 0.53%
+87	Increase (13)	 Maldives	0.762	Increase 0.81%
+87	Decrease (2)	 Peru	0.762	Increase 0.42%
+89	Increase (1)	 Azerbaijan	0.760	Increase 0.30%
+89	Steady	 Brazil	0.760	Increase 0.43%
+91	Decrease (6)	 Colombia	0.758	Increase 0.29%
+92	Decrease (1)	 Libya	0.746	Decrease 0.31%
+93	Increase (5)	 Algeria	0.745	Increase 0.27%
+94	Increase (7)	 Turkmenistan	0.744	Increase 0.52%
+95	Increase (27)	 Guyana	0.742	Increase 1.11%
+96	Decrease (2)	 Mongolia	0.741	Increase 0.48%
+97	Increase (8)	 Dominica	0.740	Increase 0.06%
+98	Increase (5)	 Tonga	0.739	Increase 0.35%
+99	Decrease (3)	 Jordan	0.736	Increase 0.10%
+100	Decrease (18)	 Ukraine	0.734	Decrease 0.35%
+101	Increase (1)	 Tunisia	0.732	Increase 0.22%
+102	Increase (17)	 Marshall Islands	0.731	NA[a]
+102	Decrease (6)	 Paraguay	0.731	Increase 0.36%
+104	Increase (2)	 Fiji	0.729	Increase 0.35%
+105	Increase (11)	 Egypt	0.728	Increase 0.73%
+106	Increase (6)	 Uzbekistan	0.727	Increase 0.62%
+107	Increase (7)	 Vietnam	0.726	Increase 0.60%
+108	Decrease (10)	 Saint Lucia	0.725	Decrease 0.07%
+109	Decrease (21)	 Lebanon	0.723	Decrease 0.29%
+110	Decrease (6)	 South Africa	0.717	Increase 0.50%
+111	Decrease (2)	 Palestine	0.716	Increase 0.33%
+112	Increase (1)	 Indonesia	0.713	Increase 0.56%
+113	Increase (2)	 Philippines	0.710	Increase 0.45%
+114	Increase (5)	 Botswana	0.708	Increase 0.69%
+115	Decrease (7)	 Jamaica	0.706	Decrease 0.06%
+116	Decrease (7)	 Samoa	0.702	Decrease 0.02%
+117	Increase (1)	 Kyrgyzstan	0.701	Increase 0.49%
+118	Decrease (11)	 Belize	0.700	Decrease 0.23%
+119	Decrease (39)	 Venezuela	0.699	Decrease 0.68%
+120	Increase (5)	 Morocco	0.698	Increase 1.21%
+120	Decrease (1)	 Bolivia	0.698	Increase 0.45%
+122	Increase (9)	 Nauru	0.696	Increase 1.84%
+123	Decrease (6)	 Gabon	0.693	Increase 0.46%
+124	Decrease (13)	 Suriname	0.690	Decrease 0.07%
+125	Increase (10)	 Bhutan	0.681	Increase 1.32%
+126	Increase (2)	 Tajikistan	0.679	Increase 0.61%
+127	Decrease (4)	 El Salvador	0.674	Increase 0.21%
+128	Decrease (3)	 Iraq	0.673	Increase 0.57%
+129	Increase (12)	 Bangladesh	0.670	Increase 1.54%
+130	Steady	 Nicaragua	0.669	Increase 0.76%
+131	Decrease (7)	 Cape Verde	0.661	Increase 0.15%
+132	Decrease (7)	 Tuvalu	0.653	Increase 0.39%
+133	Decrease (4)	 Equatorial Guinea	0.650	Increase 0.54%
+134	Increase (4)	 India	0.644	Increase 0.99%
+135	Decrease (4)	 Micronesia	0.634	Decrease 0.13%
+136	Decrease (3)	 Guatemala	0.629	Increase 0.21%
+137	Decrease (2)	 Kiribati	0.628	Increase 0.61%
+138	Increase (1)	 Honduras	0.624	Increase 0.38%
+139	Increase (2)	 Laos	0.620	Increase 0.90%
+140	Increase (4)	 Vanuatu	0.614	Increase 0.50%
+141	Increase (2)	 São Tomé and Príncipe	0.613	Increase 0.86%
+142	Increase (5)	 Eswatini	0.610	Increase 1.70%
+142	Decrease (8)	 Namibia	0.610	Increase 0.36%
+144	Increase (10)	 Myanmar	0.608	Increase 1.54%
+145	Increase (1)	 Ghana	0.602	Increase 0.44%
+146	Increase (3)	   Nepal	0.601	Increase 0.85%
+146	Increase (2)	 Kenya	0.601	Increase 0.82%
+148	Increase (2)	 Cambodia	0.600	Increase 0.85%
+149	Decrease (10)	 Congo	0.593	Increase 0.17%
+150	Decrease (5)	 Angola	0.591	Increase 1.14%
+151	Increase (1)	 Cameroon	0.587	Increase 1.10%
+152	Increase (3)	 Comoros	0.586	Increase 0.94%
+153	Decrease (2)	 Zambia	0.569	Increase 0.63%
+154	Increase (5)	 Papua New Guinea	0.568	Increase 1.12%
+155	Decrease (18)	 Timor-Leste	0.566	Decrease 1.01%
+156	Decrease (4)	 Solomon Islands	0.562	Increase 0.13%
+157	Decrease (1)	 Syria	0.557	Decrease 1.42%
+158	Decrease (1)	 Haiti	0.552	Increase 1.74%
+159	Increase (2)	 Uganda	0.550	Increase 0.80%
+159	Decrease (1)	 Zimbabwe	0.550	Increase 1.12%
+161	Increase (5)	 Rwanda	0.548	Increase 1.02%
+161	Increase (2)	 Nigeria	0.548	Increase 0.97%
+163	Increase (2)	 Togo	0.547	Increase 1.29%
+164	Decrease (3)	 Pakistan	0.540	Increase 0.71%
+164	Decrease (4)	 Mauritania	0.540	Increase 0.51%
+166	Increase (4)	 Ivory Coast	0.534	Increase 1.07%
+167	Increase (2)	 Tanzania	0.532	Increase 0.64%
+168	Steady	 Lesotho	0.521	Increase 0.86%
+169	Increase (1)	 Senegal	0.517	Increase 0.80%
+170	Decrease (6)	 Sudan	0.516	Increase 0.45%
+171	Increase (4)	 Djibouti	0.515	Increase 1.67%
+172	Increase (1)	 Malawi	0.508	Increase 0.81%
+173	Decrease (7)	 Benin	0.504	Increase 0.39%
+174	Increase (5)	 Gambia	0.495	Increase 0.82%
+175	Steady	 Eritrea	0.493	Increase 0.62%
+176	Increase (5)	 Ethiopia	0.492	Increase 1.55%
+177	Steady	 Liberia	0.487	Increase 0.48%
+177	Decrease (5)	 Madagascar	0.487	Decrease 0.02%
+179	Decrease (1)	 Guinea-Bissau	0.483	Increase 0.76%
+180	Steady	 DR Congo	0.481	Increase 1.06%
+181	Increase (2)	 Guinea	0.471	Increase 1.06%
+182	Decrease (8)	 Afghanistan	0.462	Increase 0.24%
+183	Increase (1)	 Mozambique	0.461	Increase 1.04%
+184	Increase (1)	 Sierra Leone	0.458	Increase 0.80%
+185	Increase (2)	 Burkina Faso	0.438	Increase 1.37%
+186	Decrease (5)	 Yemen	0.424	Decrease 1.30%
+187	Decrease (1)	 Burundi	0.420	Increase 0.32%
+188	Steady	 Mali	0.410	Increase 0.08%
+189	Increase (2)	 Niger	0.394	Increase 1.34%
+189	Steady	 Chad	0.394	Increase 0.66%
+191	Steady	 Central African Republic	0.387	Increase 0.67%
+192	Decrease (2)	 South Sudan	0.381	Decrease 0.53%
+193	NA[b]	 Somalia	0.380	NA[c]
+
